@@ -1,8 +1,8 @@
 // write your code below
-//for (var number =0 ; number <= 10 ; number++) {
-    //var result = number * 9;
-  //   console.log(`${number} * 9 = ${result}`);
-//}
+for (var number =0 ; number <= 10 ; number++) {
+    var result = number * 9;
+    console.log(`${number} * 9 = ${result}`);
+}
  
 
 
